@@ -1,1 +1,2 @@
-h= {"gender": "male""}
+h= {"gender": "male"}
+print(h)
